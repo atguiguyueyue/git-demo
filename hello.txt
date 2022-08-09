@@ -1,3 +1,4 @@
+欲练此功，必先自宫
 hello atguigu! hello git! 22222
 hello atguigu! hello git! 33333
 hello atguigu! hello git!
@@ -20,3 +21,4 @@ hello atguigu! hello git! hot-fix test
 辟邪剑谱 果然厉害
 aaaaaaaaaaaaaalhc
 bbbbbbbbbbbbbbbByDongfengbubai
+若不自宫，也可成功
